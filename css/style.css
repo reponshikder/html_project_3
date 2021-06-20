@@ -1,0 +1,64 @@
+body{
+	background: #808080a1;
+}
+
+div{
+	text-align: center;
+    color: #0f59dee6;
+    font-size: 30px;
+}
+h3{	
+	color: darkgreen;
+	font-size: 30px;
+}
+.span-1{
+    color: aqua;
+}
+.span-2{
+    color: blue;
+}
+.span-3{
+    color: bisque;
+}
+.span-4{
+    color: blueviolet;
+}
+.span-5{
+    color: brown;
+}
+.span-6{
+    color: chartreuse;
+}
+.span-7{
+    color: crimson;
+}
+.span-8{
+    color: darkmagenta;
+}
+.span-9{
+    color: yellow;
+}
+.span-10{
+    color: tomato;
+}
+.span-11{
+    color: springgreen;
+}
+.span-12{
+    color: seashell;
+}
+.video{
+	width: 800px;
+}
+.if_video{
+	width: 850px;
+	height: 450px;
+}
+.if_map{
+	width: 100%;
+	height: 500px;
+}
+.Semantic{
+	color: blue;
+	font-size: 30px;
+}
